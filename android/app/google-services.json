@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "519087604329",
+    "firebase_url": "https://vedio-player-8470a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vedio-player-8470a",
+    "storage_bucket": "vedio-player-8470a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519087604329:android:45ad67db70e214a290d8f8",
+        "android_client_info": {
+          "package_name": "com.example.vedio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjytVwH3UTJTPe_5UFXvQmaCUU-k0Fdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
